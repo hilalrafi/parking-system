@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1561293825 source:c:\users\asus\documents\parking system\sources.c
+	"header.h"
+
+1561221851 c:\users\asus\documents\parking system\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1561206090 source:c:\users\asus\documents\parking system\main.c
+	"header.h"
+
+1561308059 source:f:\parking system\main.c
+	"header.h"
+
+1561339035 f:\parking system\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1561955870 source:f:\parking system\sources.c
+	"header.h"
+
+1561308059 source:g:\parking system\main.c
+	"header.h"
+
+1561339035 g:\parking system\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1561308059 source:c:\users\rendy hanung p\desktop\parking system\main.c
+	"header.h"
+
+1561339035 c:\users\rendy hanung p\desktop\parking system\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1561351467 source:c:\users\rendy hanung p\desktop\parking system\sources.c
+	"header.h"
+
+1561955870 source:g:\parking system\sources.c
+	"header.h"
+
+1561308059 source:d:\materi kuliah\algoritma pemrograman\parking system\main.c
+	"header.h"
+
+1561339035 d:\materi kuliah\algoritma pemrograman\parking system\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1561955870 source:d:\materi kuliah\algoritma pemrograman\parking system\sources.c
+	"header.h"
+
